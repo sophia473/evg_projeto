@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "sophia_bi2"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "44f30ebb-4721-4d57-8369-edf233bb4a29"
+  }
+}
